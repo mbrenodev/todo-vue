@@ -21,3 +21,6 @@ npm install
 ```Bash
 npm run dev
 ```
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/vue_todo-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mb-vue-todo.netlify.app/)
